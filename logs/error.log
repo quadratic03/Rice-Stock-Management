@@ -1,0 +1,51 @@
+[07-Apr-2025 09:24:42 UTC] Dropdown data fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'field list'
+[07-Apr-2025 09:24:42 UTC] PHP Warning:  Undefined variable $varieties in C:\xampp\htdocs\RiceStochSystem\add-stock.php on line 148
+[07-Apr-2025 09:24:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\RiceStochSystem\add-stock.php on line 148
+[07-Apr-2025 09:24:44 UTC] Data fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rice_stock_system.stock_adjustments' doesn't exist
+[07-Apr-2025 10:18:07 UTC] Data fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rice_stock_system.stock_adjustments' doesn't exist
+[07-Apr-2025 10:18:10 UTC] Data fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rice_stock_system.stock_adjustments' doesn't exist
+[07-Apr-2025 10:33:43 UTC] Data fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rice_stock_system.stock_adjustments' doesn't exist
+[07-Apr-2025 10:34:59 UTC] Call to undefined function add_action()
+#0 C:\xampp\htdocs\RiceStochSystem\stock-transfers.php(11): require_once()
+#1 {main}
+[07-Apr-2025 10:35:03 UTC] Call to undefined function add_action()
+#0 C:\xampp\htdocs\RiceStochSystem\stock-adjustments.php(11): require_once()
+#1 {main}
+[07-Apr-2025 10:35:06 UTC] Call to undefined function add_action()
+#0 C:\xampp\htdocs\RiceStochSystem\dashboard.php(11): require_once()
+#1 {main}
+[07-Apr-2025 10:35:11 UTC] Call to undefined function add_action()
+#0 C:\xampp\htdocs\RiceStochSystem\stock-adjustments.php(11): require_once()
+#1 {main}
+[07-Apr-2025 10:35:24 UTC] Call to undefined function add_action()
+#0 C:\xampp\htdocs\RiceStochSystem\stock-adjustments.php(11): require_once()
+#1 {main}
+[07-Apr-2025 10:35:26 UTC] Call to undefined function add_action()
+#0 C:\xampp\htdocs\RiceStochSystem\add-stock.php(11): require_once()
+#1 {main}
+[07-Apr-2025 10:35:30 UTC] Call to undefined function add_action()
+#0 C:\xampp\htdocs\RiceStochSystem\index.php(9): require_once()
+#1 {main}
+[07-Apr-2025 10:35:59 UTC] Call to undefined function add_action()
+#0 C:\xampp\htdocs\RiceStochSystem\index.php(9): require_once()
+#1 {main}
+[07-Apr-2025 10:40:08 UTC] Transaction fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rice_stock_system.transactions' doesn't exist
+[07-Apr-2025 10:40:20 UTC] Data fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rice_stock_system.stock_adjustments' doesn't exist
+[07-Apr-2025 10:40:23 UTC] Data fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'field list'
+[07-Apr-2025 10:40:26 UTC] Data fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rv.type' in 'field list'
+[07-Apr-2025 10:40:32 UTC] PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference
+#0 {main}
+[07-Apr-2025 10:40:34 UTC] Data fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rv.type' in 'field list'
+[07-Apr-2025 10:53:32 UTC] Data fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rv.type' in 'field list'
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\reports.php on line 181
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\includes\functions.php on line 78
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\reports.php on line 181
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\includes\functions.php on line 78
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\reports.php on line 181
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\includes\functions.php on line 78
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\reports.php on line 181
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\includes\functions.php on line 78
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\reports.php on line 181
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\includes\functions.php on line 78
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\reports.php on line 181
+[07-Apr-2025 10:53:36 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\RiceStochSystem\includes\functions.php on line 78
